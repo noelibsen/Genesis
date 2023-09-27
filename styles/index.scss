@@ -1,0 +1,12 @@
+@use 'fonts';
+
+@import 'contact';
+@import 'contact';
+@import 'header';
+@import 'footer';
+@import 'home';
+@import 'project';
+
+body{
+    font-family: fonts.$main-font;
+}
